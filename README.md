@@ -67,3 +67,8 @@ Executable JAR is compiled using maven
 * Run `docker ps` to check if the container is up and running
 ![Screenshot](/images/DockerUp.JPG)
 
+# Resources Used
+1) https://www.youtube.com/watch?v=wcxOJq9YemE
+2) https://docs.github.com/en/rest
+3) https://start.spring.io/
+4) https://spring.io/guides/gs/rest-service/
