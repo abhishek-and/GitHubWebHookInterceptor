@@ -44,6 +44,7 @@ logging.pattern.file|	The pattern in which the log files names will be created (
 ---------|---------
 com.github.webhook.interceptor.restservice|	Contains The REST controller that will intercept the POST message from GitHub and also GitHub REST API payload constructor
 com.github.webhook.interceptor.datamap|	Contains classes which will use `jackson` api to read messages from webhook and construct json payload to be sent to GitHub REST API
+com.github.rest.api.invoker|	Contains class which makes an http call to the GitHub REST API's, using `RestTemplate` implementaiton of Spring framework
 
 ## Build
 Executable JAR is compiled using maven
